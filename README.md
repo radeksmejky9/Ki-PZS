@@ -16,7 +16,7 @@ _Pro správnou funkčnost nutno stáhnout soubory
 
 ## II. seminární práce
 
-- [Textový dokument](PZS2/SeminarniPrace-II.md)
+- [Textová část seminární práce](PZS2/SeminarniPrace-II.md)
 - [Úloha 1](PZS2/SeminarniPrace-II.ipynb)
 - [Zadání](PZS2/SeminarniPrace-II.pdf)
 
