@@ -1,6 +1,6 @@
 # I. a II. seminární práce z předmětu Počítačové zpracování signálu (KI/PZS)
 
-- Tým: Martin Formánek, Radek Šmejkal
+- Tým: Radek Šmejkal, Martin Formánek
 - 28.01.2025
 
 ## I. seminární práce
