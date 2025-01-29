@@ -91,6 +91,7 @@ Pro indetifikaci slov byla použita hausdorffova vzdálenost `directed_hausdorff
 ### Signal1.txt
 
 ![](pngs/output1.png)
+
 **Odhadnutá věta:**
 - `the make method the time make for prepare the solution`
 
@@ -114,6 +115,7 @@ Pro indetifikaci slov byla použita hausdorffova vzdálenost `directed_hausdorff
 ### Signal2.txt
 
 ![](pngs/output2.png)
+
 **Odhadnutá věta:**
 - `the give give for for`
 
@@ -132,6 +134,7 @@ Pro indetifikaci slov byla použita hausdorffova vzdálenost `directed_hausdorff
 ### Signal3.txt
 
 ![](pngs/output3.png)
+
 **Odhadnutá věta:**
 - `the for for lecture lecture`
 
